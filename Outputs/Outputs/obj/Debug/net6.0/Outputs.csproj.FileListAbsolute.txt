@@ -1,0 +1,15 @@
+C:\Users\Jimmy\source\repos\Outputs\Outputs\bin\Debug\net6.0\Outputs.exe
+C:\Users\Jimmy\source\repos\Outputs\Outputs\bin\Debug\net6.0\Outputs.deps.json
+C:\Users\Jimmy\source\repos\Outputs\Outputs\bin\Debug\net6.0\Outputs.runtimeconfig.json
+C:\Users\Jimmy\source\repos\Outputs\Outputs\bin\Debug\net6.0\Outputs.dll
+C:\Users\Jimmy\source\repos\Outputs\Outputs\bin\Debug\net6.0\Outputs.pdb
+C:\Users\Jimmy\source\repos\Outputs\Outputs\obj\Debug\net6.0\Outputs.csproj.AssemblyReference.cache
+C:\Users\Jimmy\source\repos\Outputs\Outputs\obj\Debug\net6.0\Outputs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jimmy\source\repos\Outputs\Outputs\obj\Debug\net6.0\Outputs.AssemblyInfoInputs.cache
+C:\Users\Jimmy\source\repos\Outputs\Outputs\obj\Debug\net6.0\Outputs.AssemblyInfo.cs
+C:\Users\Jimmy\source\repos\Outputs\Outputs\obj\Debug\net6.0\Outputs.csproj.CoreCompileInputs.cache
+C:\Users\Jimmy\source\repos\Outputs\Outputs\obj\Debug\net6.0\Outputs.dll
+C:\Users\Jimmy\source\repos\Outputs\Outputs\obj\Debug\net6.0\refint\Outputs.dll
+C:\Users\Jimmy\source\repos\Outputs\Outputs\obj\Debug\net6.0\Outputs.pdb
+C:\Users\Jimmy\source\repos\Outputs\Outputs\obj\Debug\net6.0\Outputs.genruntimeconfig.cache
+C:\Users\Jimmy\source\repos\Outputs\Outputs\obj\Debug\net6.0\ref\Outputs.dll
